@@ -1,7 +1,9 @@
 # Working-with-Labview
 This is a small work of mine on LabView .
 The Questions are:
-##Numeric, Stuctures, Boolean and TImings Palette
+
+#Numeric, Stuctures, Boolean and TImings Palette
+
 1)
 • Create a VI that do the following
 • adds two numbers
