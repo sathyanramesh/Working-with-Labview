@@ -4,9 +4,8 @@ The Questions are:
 
 #Numeric, Stuctures, Boolean and TImings Palette
 
-1)
+1) Create a VI that do the following
 
-• Create a VI that do the following
 • adds two numbers
 • subtracts one number from another
 • multiplies two numbers together
@@ -50,7 +49,6 @@ Y = sin (a+b);
 
 
 
-
 #Arrays
 
 1. Construct a VI that computes the final grades in a course using three input arrays
@@ -87,15 +85,15 @@ Strings
 4. Design a VI which has the front panel as indicated. It should accept an array as input
 &amp; display the sting size as output. [Time : 0.5 hr]
 
-5 .Design a VI which indicates whether the string is palindrome or not. Don’t use
+5. Design a VI which indicates whether the string is palindrome or not. Don’t use
 reverse string function. [Time : 1 hr]
 File IO
 
-6 .Write a code that gives following details for any selected VI - Selected VI Name, Selected
+6. Write a code that gives following details for any selected VI - Selected VI Name, Selected
 VI Path, Folder location of selected VI, Drive in which VI is present (C:\, D:\, etc). Write these
 details in an ini file - with Section = VI name and Keys - as all other details. [Time : 0.5 hr]
 
-7 .Build a VI that continuously measures the temperature once per second.If the
+7. Build a VI that continuously measures the temperature once per second.If the
 temperature goes above or below limits specified with front panel controls, the VI
 turns on a front panel LED. After each measurement, logs the date, time (including
 seconds), temperature, average of the last three measurements, and a one-word
